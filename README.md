@@ -17,7 +17,9 @@
 
 
 # Introdução
-O Projeto **OSINT Brazuca** é um repositório criado com intuito de reunir informações, fontes(websites/portais) e tricks de OSINT dentro do contexto Brasil 🇧🇷.
+O Projeto **OSINT Brazuca** é um repositório criado com intuito de reunir informações, fontes(websites/portais) e tricks de OSINT dentro do contexto Brasil 🇧🇷. Esse forked foi feito para focar em informações sobre o estado do Ceará.
+<br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Bandeira_do_Cear%C3%A1.svg/720px-Bandeira_do_Cear%C3%A1.svg.png">
 
 OSINT (sigla para Open source intelligence ou Inteligência de Fontes Abertas) é um modelo de inteligência que visa encontrar, selecionar e adquirir informações de fontes públicas e analisá-las para que junto com outras fontes possam produzir um conhecimento. As informações coletadas por meio de fontes abertas, possuem baixo custo, se comparado as onerosas operações de campo.
 
